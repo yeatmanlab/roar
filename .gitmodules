@@ -7,3 +7,6 @@
 [submodule "roar-mep"]
 	path = roar-mep
 	url = git@github.com:yeatmanlab/roar-mep.git
+[submodule "roar-sre"]
+	path = roar-sre
+	url = git@github.com:yeatmanlab/roar-sre.git
