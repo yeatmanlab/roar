@@ -10,3 +10,11 @@
 [submodule "roar-sre"]
 	path = roar-sre
 	url = git@github.com:yeatmanlab/roar-sre.git
+[submodule "roar-firekit"]
+	path = roar-firekit
+	url = git@github.com:richford/roar-firekit.git
+[submodule "roar-anb"]
+	path = roar-anb
+	url = git@github.com:yeatmanlab/roar-anb.git
+[submodule "main"]
+	branch = .
