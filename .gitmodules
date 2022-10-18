@@ -13,3 +13,8 @@
 [submodule "roar-firekit"]
 	path = roar-firekit
 	url = git@github.com:richford/roar-firekit.git
+[submodule "roar-anb"]
+	path = roar-anb
+	url = git@github.com:yeatmanlab/roar-anb.git
+[submodule "main"]
+	branch = .
